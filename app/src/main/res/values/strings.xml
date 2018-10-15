@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ModuleDemo</string>
+    <string name="app_goto_main">goto main</string>
 </resources>
